@@ -47,7 +47,6 @@ My motivation for this project was create two endpoints for Guatemala.com with t
 
 
 ## Endpoints Descriptions
-The objective of this Jupyter Notebook is show all the flow and process with:
 1. http://localhost:8000/api/promocion
 This enppoint provides basic information about promotions, with the next values:
     * Id
