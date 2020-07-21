@@ -4,10 +4,8 @@ Public API using Laravel, available endpoints "promocion" and "promopromotionDet
 ## Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
-3. [File Descriptions](#file-descriptions)
-4. [How to Interact with the project](#how-to-interact-with-the-project)
-5. [Results](#results)
-6. [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements)
+3. [Endpoints Description](#Endpoints-descriptions)
+4. [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements)
 
 ## Installation:
 To run this project you have to have installed previusly php, composer framework and mysql. 
